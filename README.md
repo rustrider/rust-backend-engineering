@@ -1,4 +1,4 @@
-# ![Rust Backend Engineering](https://yt3.googleusercontent.com/HJWIuJzEQrTcXaHAtbe63rwnYzdfsAvMcGVm2WYBD2uxlTdPSVzwybM7TpRXF_VwZqjRfVskDKg=s160-c-k-c0x00ffffff-no-rj) Rust Backend Engineering 🚀  
+# ![Rust Backend Engineering](https://yt3.googleusercontent.com/HJWIuJzEQrTcXaHAtbe63rwnYzdfsAvMcGVm2WYBD2uxlTdPSVzwybM7TpRXF_VwZqjRfVskDKg=s160-c-k-c0x00ffffff-no-rj) 
 
 ## About  
 Dive into backend engineering with Rust—blazing-fast APIs, scalable systems, and cutting-edge tutorials. Master the future of backend development with us!  
