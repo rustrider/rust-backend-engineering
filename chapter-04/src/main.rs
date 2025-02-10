@@ -1,9 +1,11 @@
 fn main() {
+ println!("result {}", return_something());
+}
 
-    let s1 = String::from("hello");
-    let s2 = s1;
-
-    println!("{s1}, world!");
+fn return_something() -> u32 {
+    let a: u32 = 10;
+    let b: u32= 20;
+     a * b
 }
 
 
