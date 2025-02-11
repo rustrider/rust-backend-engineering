@@ -1,3 +1,3 @@
 # rust-backend-engineering
 
-progress of stream #04 is Chapter 5 (page 132);
+progress of stream #05 is Chapter 6 (page 143);
