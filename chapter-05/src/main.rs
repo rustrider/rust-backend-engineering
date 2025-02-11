@@ -44,16 +44,19 @@ fn main () {
     let dimension = (10,2);
     println!("the total is: {}" ,area(dimension));
 }
-*/
 // example 4: trying out debug macro with rust
+
 #[derive(Debug)]
 fn area(dm: (u32,u32) ) -> u32{
     dm.0 * dm.1
 }
 fn main () {
     let dimension = (10,2);
-    println!("this element 1: {:?} | this is element 2: {:?}" , dimension.0 , dimension.1);
+    println!("this element 1: {}", area(dimension.0, dimension.1));
 }
+*/
+
+
 
 
 
