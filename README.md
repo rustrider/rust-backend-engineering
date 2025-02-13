@@ -1,4 +1,4 @@
-## 👨‍💻 Looking for the code from the stream?  
+# 🤔 Looking for the code from the stream?  
 You can find it in the GitHub repository linked to the YouTube channel. Each stream has its own branch—just match the stream number!  
 ---
  **Example!**   
