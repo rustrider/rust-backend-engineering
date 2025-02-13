@@ -1,3 +1,2 @@
-# rust-backend-engineering
-
-🧑‍💻 For code related to the stream, you can visit the GitHub repository associated with the YouTube channel and select the branch based on the stream number. For example, this one is on the stream-02 branch..
+🎬 Thanks for Watching! 🚀 Happy Coding!
+👨‍💻 Want the code from the stream? Head over to the GitHub repository linked to the YouTube channel! Each stream has its own branch—just match the stream number. 
