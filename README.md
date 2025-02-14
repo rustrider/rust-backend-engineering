@@ -1,3 +1,4 @@
+14/02/2025 progress => stream#07 | rust programming book page 194
 # 🤔 Looking for the code from the stream?  
 You can find it in the GitHub repository linked to the YouTube channel. Each stream has its own branch—just match the stream number!  
 ---
